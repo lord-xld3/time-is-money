@@ -13,7 +13,7 @@ This project is firstly an open-source thought experiment, and secondly, given e
 
 These are problems that we can *generally* agree, are problems with typical currencies, like "fiat" or "crypto":
 
-1. The value of currency is variable due to multiple factors
+1. **The value of currency is variable due to multiple factors**
   
     - 1.1 This means the security of wealth isn't great. 1 bitcoin could pay your rent this month, but perhaps not the next month.
   
@@ -21,7 +21,7 @@ These are problems that we can *generally* agree, are problems with typical curr
     
       - 1.2.1 Assuming 1.2 to be true, "hard currency" could not exist, and constantly changing the value of all existing wealth creates a great deal of overhead.
 
-2. Distribution of wealth is not equal to the value of work
+2. **Distribution of wealth is not equal to the value of work**
     
     - 2.1 Do you believe meaningful work is more rewarding and desirable than the mundane? If given the option, would you choose to: 
       
@@ -33,7 +33,7 @@ These are problems that we can *generally* agree, are problems with typical curr
 
     - 2.2 Do you believe 8 hours of farming potatos is more valuable than 8 hours of flipping burgers? Are these the same value? They're certainly both 8 hours away from your loved ones, hobbies, etc.
 
-3. Money = power
+3. **Money = power**
 
     - 3.1 Do you believe one person can be "better" than another? Are we all created equally, but different? Are you any better than a murderer just because you don't have the same psychological issues or were raised in a violent environment? 
     
@@ -43,7 +43,7 @@ These are problems that we can *generally* agree, are problems with typical curr
 
     - 3.3 Okay so there's some kind of balance between "everyone is equal" and "everyone is different". All voices should be heard, but some should be heard louder than others depending on many factors, like their experience on the subject, work they've done, and even the chemistry that forms their opinion. This could be hard to determine what "weight" each voice should have, and this will be important to figure out.
 
-4. Greed is natural
+4. **Greed is natural**
 
     - 4.1 It is in your best interest to take the option that leads to the highest chance of surviving. When presented without risk, you will always take the better option.
 
@@ -53,7 +53,7 @@ These are problems that we can *generally* agree, are problems with typical curr
 
     - 4.4 In a "non-profit" system, you should do the minimum work possible, since there are no risks you will take the better option.
 
-5. Competition vs. Collaboration
+5. **Competition vs. Collaboration**
 
     - 5.1 There must be a balance between competition and collaboration. 
     
