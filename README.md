@@ -42,3 +42,23 @@ These are problems that we can *generally* agree, are problems with typical curr
     - 3.2 Do you believe some opinions carry more "weight" than others? For example, if someone has struggled with drug addiction and rehabilitation therapy, should their opinion carry more "weight" when making decisions about new drug policies?
 
     - 3.3 Okay so there's some kind of balance between "everyone is equal" and "everyone is different". All voices should be heard, but some should be heard louder than others depending on many factors, like their experience on the subject, work they've done, and even the chemistry that forms their opinion. This could be hard to determine what "weight" each voice should have, and this will be important to figure out.
+
+4. Greed is natural
+
+    - 4.1 It is in your best interest to take the option that leads to the highest chance of surviving. When presented without risk, you will always take the better option.
+
+    - 4.2 When weighing risks, there is always a tipping point at which you would take the risk. It will vary for each person, and it may be out of bounds in extreme examples. Suppose a child is starving and will die within a week, should you steal a loaf of bread or let them die?
+
+    - 4.3 In a "for-profit" system, you should maximize and keep the profits, because it gives you a greater chance of success if things go wrong.
+
+    - 4.4 In a "non-profit" system, you should do the minimum work possible, since there are no risks you will take the better option.
+
+5. Competition vs. Collaboration
+
+    - 5.1 There must be a balance between competition and collaboration. 
+    
+    - 5.2 Without competiton, it is more difficult to bring new ideas forward (possible failures, or possible successes). Additionally without competition, referring to 4.4 - "you should do the minimum work possible, since there are no risks you will take the better option".
+
+    - 5.3 Without collaboration, unnecessary work may be done repeatedly (we don't need 10 different kinds of YouTube that all do the same thing)
+
+    - 5.4 The difficult question is, "how do you effectively use competition in a non-profit system, and vice versa? In a for-profit system, you might collaborate only for someone else to take your ideas and do it better, causing you to fail"
